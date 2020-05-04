@@ -2,7 +2,8 @@
 layout: single
 title: "Useful: tcpdump"
 date: 2019-01-02
-categories: networking 
+tags: 
+ - networking 
 ---
 
 You may want to check Daniel's [tcpdump Examples — 50 Ways to Isolate Specific Traffic](https://danielmiessler.com/study/tcpdump/). You probably don't need much more to do what you're trying to do with tcpdump. 
