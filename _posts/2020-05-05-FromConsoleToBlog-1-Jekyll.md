@@ -94,9 +94,10 @@ LiveReload address: http://127.0.0.1:35729
 ```
 
 You can now point your browser at http://127.0.0.1:4000/:
-
-![Vanilla Jekyll]({{ site.url }}{{ site.baseurl }}/assets/images/20200505-jekyll1.webp){: .full}
-
-![Welcome to Jekyll!]({{ site.url }}{{ site.baseurl }}/assets/images/20200505-jekyll2.webp){: .full}
+<figure class="half">
+  <a class="image-popup" href="/assets/images/20200505-jekyll1.webp"><img src="/assets/images/20200505-jekyll1.webp" /></a>
+  <a class="image-popup" href="/assets/images/20200505-jekyll2.webp"><img src="/assets/images/20200505-jekyll2.webp" /></a>
+  <figcaption>Vanilla Jekyll.</figcaption>
+</figure>
 
 That's it for now. In the next post, I'll go through how to use [a Jekyll theme I quite like](https://mmistakes.github.io/minimal-mistakes/). 
