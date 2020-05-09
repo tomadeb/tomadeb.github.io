@@ -95,8 +95,8 @@ LiveReload address: http://127.0.0.1:35729
 
 You can now point your browser at http://127.0.0.1:4000/:
 <figure class="half">
-  <a class="image-popup" href="/assets/images/20200505-jekyll1.webp"><img src="/assets/images/20200505-jekyll1.webp" /></a>
-  <a class="image-popup" href="/assets/images/20200505-jekyll2.webp"><img src="/assets/images/20200505-jekyll2.webp" /></a>
+  <a class="image-popup" href="/assets/images/2020-05-05-FromConsoleToBlog-1-Jekyll/2020-05-05-FromConsoleToBlog-1-Jekyll_1.webp"><img src="/assets/images/2020-05-05-FromConsoleToBlog-1-Jekyll/2020-05-05-FromConsoleToBlog-1-Jekyll_1.webp" /></a>
+  <a class="image-popup" href="/assets/images/2020-05-05-FromConsoleToBlog-1-Jekyll/2020-05-05-FromConsoleToBlog-1-Jekyll_2.webp"><img src="/assets/images/2020-05-05-FromConsoleToBlog-1-Jekyll/2020-05-05-FromConsoleToBlog-1-Jekyll_2.webp" /></a>
   <figcaption>Vanilla Jekyll.</figcaption>
 </figure>
 
