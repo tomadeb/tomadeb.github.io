@@ -100,4 +100,4 @@ You can now point your browser at http://127.0.0.1:4000/:
   <figcaption>Vanilla Jekyll.</figcaption>
 </figure>
 
-That's it for now. In the next post, I'll go through how to use [a Jekyll theme I quite like](https://mmistakes.github.io/minimal-mistakes/). 
+That's it for now. In the [next post]({% link _posts/2020-05-06-FromConsoleToBlog-2-MinimalMistakes.md %}), I'll go through how to use [a Jekyll theme I quite like](https://mmistakes.github.io/minimal-mistakes/). 
