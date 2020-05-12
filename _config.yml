@@ -118,7 +118,7 @@ author:
       url: "https://twitter.com/tomdeb"
     - label: "@tomdeb"
       icon: "fab fa-fw fa-mastodon"
-      url: "https://fosstodon.org"
+      url: "https://fosstodon.org/@tomdeb"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/tomadeb"
