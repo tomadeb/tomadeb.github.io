@@ -117,7 +117,7 @@ author:
     - label: "Twitter"
       icon: "fab fa-twitter"
       url: "https://twitter.com/tomdeb"
-    - label: "@tomdeb"
+    - label: "Mastodon"
       icon: "fab fa-mastodon"
       url: "https://fosstodon.org/@tomdeb"
     - label: "GitHub"
@@ -303,4 +303,3 @@ defaults:
       classes:
         - wide
       author_profile: true
-
