@@ -12,5 +12,5 @@ $github-color: #777777;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
-@import "tomdeb";
 @import "highlight";
+@import "tomdeb";
