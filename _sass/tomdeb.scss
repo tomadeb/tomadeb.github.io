@@ -10,7 +10,9 @@ div.archive__item-time {
   font-size: 0.6em;
   padding-left: 1em;
   }
-
+div.archive__item-time span {
+  padding-left: 1em;
+  }  
 .archive__item-title a {
   text-decoration: none;
 }
