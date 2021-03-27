@@ -303,3 +303,23 @@ defaults:
       classes:
         - wide
       author_profile: true
+  # _drafts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      classes:
+        - wide
+      excerpt: false
+      author_profile: true
+      read_time: false
+      comments: false
+      share: false
+      related: false
+
+jekyll_compose:
+  default_front_matter:
+    drafts:
+      tags:
+      published: false

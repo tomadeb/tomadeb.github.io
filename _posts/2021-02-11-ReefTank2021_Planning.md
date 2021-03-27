@@ -56,6 +56,6 @@ I ***doesn't*** have to be:
 
 ### Next Steps
 
-The first thing I need to do is too confirm I can have a fishtank in my study room. My house is 1930s townhouse with cellar chambers. the study is on the ground floor. the floor is on joists with floor boards and then laminate. I want to get a structural engineer to confirm that it is ok to put a medium, say 200L to 400L fishtank in the study.
+The first thing I need to do is too confirm I can have a fishtank in my study room. My house is an 1870s townhouse with cellar chambers. the study is on the ground floor. the floor is on joists with floor boards and then laminate. I want to get a structural engineer to confirm that it is ok to put a medium, say 200L to 400L fishtank in the study.
 
 When I have that confirmed (hopefully), I'll have to make my mind up about the gear I'll need to buy. That's going to be in the next post.

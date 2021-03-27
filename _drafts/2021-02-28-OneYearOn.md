@@ -1,5 +1,4 @@
 ---
-published: false
 title: "One Year On"
 tags:
  - personal
@@ -35,6 +34,6 @@ Schools partialy reopened in July. Kid #1 went for 2 days over 2 weeks; Kid #2 w
 
 I think it's important to note that work at that time was also insanely busy. I was recruiting for several roles in my team, handling day-to-day operations and participating in several expansion-related projects due to the number of staff working from home.
 
-There were no travel restrictions between UK and France in July, so we decided to go on our holiday and see our family. 
+There were no travel restrictions between UK and France in July, so we decided to go on our holiday and see our family.
 
 [1]: https://en.wikipedia.org/wiki/Coronavirus_disease_2019
