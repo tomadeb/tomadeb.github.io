@@ -11,11 +11,14 @@ The following is a reliable way to create an eBPF/XDP environemnt which works ou
 
 This used to be a pain in the neck to setup but the XDP Project has managed to make it easy and accessible.
 
-In a brand spanking new Debian Bookworm basic install, run the following 5 commands as root.
+In a brand spanking new Debian Bookworm basic install, run the following commands as root.
 
 ```shell
-apt install  git build-essential linux-headers-amd64 pkg-config clang llvm bpftool libmnl-dev m4 libpcap-dev libc6-dev-i386 libcap-dev linux-perf ethtool
-git clone https://github.com/xdp-project/xdp-tutorial.git
+apt install git build-essential linux-headers-amd64 pkg-config clang llvm \
+        bpftool libmnl-dev m4 libpcap-dev libc6-dev-i386 libcap-dev \
+        linux-perf ethtool
+git clone https://github.com/xdp-project/xdp-tutorial.git 
+cd xdp-tutorial
 git submodule update --init
 cd basic01-xdp-pass
 make
