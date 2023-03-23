@@ -77,7 +77,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : "tomdeb"
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -92,9 +92,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google" # false (default), "google", "google-universal", "custom"
+  provider               : 
   google:
-    tracking_id          : UA-337512-1
+    tracking_id          : 
     anonymize_ip         : # true, false (default)
 
 
@@ -110,21 +110,12 @@ author:
     - label: "Email"
       icon: "fas fa-envelope"
       # url: mailto:t@tomdeb.org
-    - label: "Website"
-      icon: "fas fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-twitter"
-      url: "https://twitter.com/tomdeb"
     - label: "Mastodon"
       icon: "fab fa-mastodon"
       url: "https://fosstodon.org/@tomdeb"
     - label: "GitHub"
       icon: "fab fa-github"
       url: "https://github.com/tomadeb"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
 
 # Site Footer
 footer:
