@@ -29,8 +29,8 @@ I use VirtualBox for build VMs and by default it uses the "Intel PRO/1000 MT Des
 To check that everything as worked as expected run the compiled program as root:
 
 ```shell
-> ./xdp_pass_user --skb-mode -d enp0s3
-Success: Loading XDP prog name:xdp_prog_simple(id:51) on device:enp0s3(ifindex:2)
+> ./xdp_pass_user -d enp78s0
+Success: Loading XDP prog name:xdp_prog_simple(id:51) on device:enp78s0(ifindex:2)
 >
 ```
 
@@ -38,7 +38,7 @@ And then double check with bpftool:
 ```shell
 > bpftool net show 
 xdp:
-enp0s3(2) generic id 51
+enp78s0(2) generic id 51
 
 tc:
 
