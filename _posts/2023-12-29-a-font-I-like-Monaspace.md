@@ -2,8 +2,8 @@
 layout: single
 title: "A font I like: Monaspace"
 tags:
-  - typeface
-  - font
+  - random
+  - technology
 ---
 
 The latest [the Ergo](https://mailchi.mp/fc6479cc5582/the-ergo-signup) newsletter mentions a new and innovative superfamily of fonts for code called [Monaspace](https://monaspace.githubnext.com/). That was enough for me to click through and I really like it so far.
