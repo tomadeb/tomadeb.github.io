@@ -2,8 +2,7 @@
 published: true
 title: "I am planning to start a reef tank."
 tags:
- - Reeftank
- - "2021"
+ - Aquarium
 ---
 ### The reason
 Last year, kid #2 got a freshwater tank for their birthday. It's a [Tetra Starter Line LED 54L Aquarium](https://www.tetra.net/en-gb/products/tetra-starter-line-led-54l-aquarium) and it is exactly right for a small and easy aquarium. As expected, I ended up being the one to get the tank up and running, and then maintaining it on a day to day basis.

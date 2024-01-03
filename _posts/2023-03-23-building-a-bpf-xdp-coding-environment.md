@@ -3,8 +3,6 @@ layout: single
 title: Building a BPF/XDP coding environment
 tags:
   - eBPF
-  - XDP
-  - C
 ---
 
 The following is a reliable way to create an eBPF/XDP environemnt which works outside of the coding tree. 

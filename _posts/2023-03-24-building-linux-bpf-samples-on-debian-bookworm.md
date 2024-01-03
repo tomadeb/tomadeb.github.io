@@ -3,7 +3,6 @@ layout: single
 title: Building Linux BPF samples on Debian Bookworm
 tags:
   - eBPF
-  - C
 ---
 
 Here is how to build the sample BPF programs included in the linux kernel. 

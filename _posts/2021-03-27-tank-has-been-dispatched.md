@@ -1,8 +1,7 @@
 ---
 title: \"Your new tank has been dispatched.\"
 tags:
-- Reeftank
-- '2021'
+- Aquarium
 date: 2021-03-27 07:49 +0000
 ---
 Last month, I wrote that I wanted to start a reef tank. Here is an update on what has been happening since then.

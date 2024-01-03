@@ -2,6 +2,8 @@
 layout: single
 title: 'Brief Reef Tank Journal #1'
 date: 2021-12-10 17:19 +0000
+tags:
+- Aquarium
 ---
 The tank is doing generally well although I think I am still struggling to get decent growth from my corals.
 
